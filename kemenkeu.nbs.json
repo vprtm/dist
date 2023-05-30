@@ -1,0 +1,16 @@
+{
+  "fingerprints": [
+    {
+      "name" : "api-pendampingan.umi.id",
+      "fingerprint" : "VCSfqj7aJw5n3uAQDZdvc2Acr2WDRBvvYAFbwijXGKk=",
+      "expires" : 1692586264,
+      "signature" : "MEQCIHQIsBMkO1RVBbevDKAxFSJH2xdYNGOIIQq/Yq4UFFB6AiBnbMJERNmuB8sj+TjZaRIU1ovQdtBH63cSnScV8qbNag=="
+    },
+     {
+      "name" : "api--pip.nbs.dev",
+      "fingerprint" : "lQZGRlzb0VvvQoQpdEEwi/PTWpzvQPPIyZK9r/r955A=",
+      "expires" : 1692811837,
+      "signature" : "MEUCIEBPs7EoXy17RZj+JEmf7JaVa4W6Lwv0X6C/gf6Pp6N8AiEA+hSW2JSzK2qPs+zkwTJ7C0SH3aHS301lxYA4G7kXC58="
+    }
+  ]
+}
